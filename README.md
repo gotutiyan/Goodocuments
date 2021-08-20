@@ -2,8 +2,16 @@
 
 * [Dive into Deep Learning](https://d2l.ai)
 * [ Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+* [Attention might be something you need](https://docs.google.com/document/u/0/d/1e0vscvd-mtpwHWJdhMMEUs-193hQ_LnKpssDkU8NaW0/mobilebasic#)
+  * 注意機構の理解に役立ちそうな資料，系列性が本質ではない
 
+# クラウド
 
+* AWSによるクラウド入門．
+
+  東大計数工学科の講義の一部らしい
+
+  https://tomomano.gitlab.io/intro-aws/
 
 # 論文執筆
 
@@ -43,6 +51,11 @@
 
 # 符号理論
 
-* [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) (PDF直リンク，11.7MB)
+* [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf) (PDF直リンク，11.7MB，英語)
 
-  
+# 企業資料
+
+* [サイボウズのエンジニア新人研修の資料](https://blog.cybozu.io/entry/2021/07/20/100000#Webアプリケーション基礎)
+  * Webアプリケーションに関する研修資料
+* [リクルート新人研修資料2021](https://recruit-tech.co.jp/blog/2021/08/20/recruit-bootcamp-2021/)
+
